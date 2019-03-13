@@ -4,7 +4,7 @@ Superior WordPress starter theme with modern build tools by **[Aucor](https://ww
 
 **Demo:** [https://starter.aucor.fi](https://starter.aucor.fi)
 
-**Some features moved to plugin:** [Aucor Core](https://bitbucket.org/aucor/aucor-core)
+**Some features moved to plugin:** [Aucor Core](https://github.com/aucor/aucor-core)
 
 **For who**: Developers building superb WordPress sites
 
